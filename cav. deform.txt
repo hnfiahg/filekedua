@@ -1,0 +1,44 @@
+cav. deform 12.00-13.00
+M4.7-01
+M4.7-55
+M4.7-71
+M4.7-71
+M4.7-21
+M4.6-33
+M4.7-02
+M4.7-12
+M4.7-54
+M4.7-70
+M4.7-12
+M4.7-37
+M4.7-57
+M4.7-29
+M4.7-71
+M4.7-53
+M4.7-35
+M4.7-30
+M4.7-46
+M4.7-32
+
+M4.7-70
+level : 2,6 mm
+berat fg : 386.46
+volume : 365
+
+berat fb(fresh bottle) 
+sample 1 fb : 17.61 g
+brimful: 367.28
+
+sample 2 fb : 17.62 g
+brimful: 366.12
+
+sample 3 fb : 17.61 g
+brimful: 366.21
+
+sample 4 fb (sipa1): 17.58g
+brimful : 364.61
+
+incore without pump buat bev3 (segera di pr) 
+bev1: - valve engine
+      - eht module
+
